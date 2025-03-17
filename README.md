@@ -1,5 +1,10 @@
 # Connect Four: Implementación de IA con Minimax y Alpha-Beta Pruning
 
+## Explicacion-Link  (VIDEO):
+```
+https://youtu.be/TCazpGp-tEg
+```
+
 ## Introducción
 Este laboratorio consiste en la implementación de una Inteligencia Artificial (IA) para jugar **Connect Four** utilizando el algoritmo **Minimax**. Se han desarrollado dos versiones: una sin optimizaciones y otra con **poda Alpha-Beta**, una técnica que mejora la eficiencia del algoritmo reduciendo la cantidad de nodos evaluados sin afectar la calidad de las decisiones.
 
